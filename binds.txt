@@ -1,0 +1,11 @@
+a 1
+nic 1
+c 1
+d 1
+e 1
+enter 1
+shift+a 1
+o 0
+nic 0
+nic 0
+nic 0
